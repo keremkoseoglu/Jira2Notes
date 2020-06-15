@@ -3,7 +3,7 @@ import os
 
 class Config:
 
-    _CONFIG_FILE = "/Users/kerem/Dropbox/etc/config/jira2notes.txt"
+    _CONFIG_FILE = "/Users/kerem/OneDrive/etc/config/jira2notes.txt"
 
     jira_base_url = ""
     jira_username = ""
